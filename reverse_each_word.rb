@@ -1,6 +1,6 @@
 reverse_each_word(sentence)
   sentence.split
-  sentence.each do |words|
-    words.reverse
+  sentence.each do |word|
+    word.reverse
   end
 end
