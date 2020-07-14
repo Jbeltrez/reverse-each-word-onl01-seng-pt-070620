@@ -1,4 +1,4 @@
 reverse_each_word(sentence)
-  sentence.
-  word.reverse
+  sentence.split
+  
 end
